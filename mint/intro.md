@@ -26,8 +26,12 @@ Regenerative Practices, Consensus and Incentives
 * Align GxP certifications with Carbon certifications
 
 ---
-## Data is Everything
+# The Ecosystem
+![Ecosystem](mint/images/cm-ecosystem.png)
+---
+Data is Everything
 
+![Ecosystem](mint/images/3-pillars.png)
 * Proof -> Value -> Incentive diagram
 * Plan -> capture -> value diagram
 
@@ -46,6 +50,17 @@ All data tagged with geolocation, user id and timestamp
 ---
 ## Mapping Captured Data to Carbon
 
+* Every control point is mapped to Carbon offset (+/-)
+---
+## Economics
+```
+Plan -> Execute -> Certify ->  Align -> Tokenize
+         |            |          |         |
+         v            v          v         v
+       Measure
+       Practice     Audit      Audit     Realize
+       Capture     (System)   (Carbon)
+```
 ---
 ## The Consensus
 How do you know x ?
