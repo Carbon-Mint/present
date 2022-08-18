@@ -26,7 +26,8 @@ Regenerative Practices, Consensus and Incentives
 * Align GxP certifications with Carbon certifications
 
 ---
-# The Ecosystem
+The Ecosystem
+
 ![Ecosystem](mint/images/cm-ecosystem.png)
 ---
 Data is Everything
@@ -48,9 +49,9 @@ Data is Everything
 All data tagged with geolocation, user id and timestamp
 
 ---
-## Mapping Captured Data to Carbon
+## Continuous Carbon Mapping
 
-* Every control point is mapped to Carbon offset (+/-)
+![continuous-mapping](mint/images/timelines.png)
 ---
 ## Economics
 ```
