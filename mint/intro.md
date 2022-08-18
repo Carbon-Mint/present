@@ -30,11 +30,26 @@ The Ecosystem
 
 ![Ecosystem](mint/images/cm-ecosystem.png)
 ---
-Data is Everything
+Data -> Value -> Incentives -> Data
 
-![Ecosystem](mint/images/3-pillars.png)
-* Proof -> Value -> Incentive diagram
+
+                 ------------------------------------
+                 |                                   |
+                 |                                   |
+                 |                                   |
+                 v                                   |
+                Data ---------> Value  ----------> Rewards
+
+            Photo Evidence      Product Price      Tokens
+            Practice Data       Reputation         Input Discounts
+            Tests/IoT                              Subsidies
+                                                   Shape Behavior
+ (This diagram needs work)
+
 * Plan -> capture -> value diagram
+
+---
+![](mint/images/3-pillars.png)
 
 ---
 ## Types of Data Captured
@@ -49,11 +64,29 @@ Data is Everything
 All data tagged with geolocation, user id and timestamp
 
 ---
-## Continuous Carbon Mapping
+## Continuous Carbon Mapping (1/2)
 
 ![continuous-mapping](mint/images/timelines.png)
+
 ---
-## Economics
+## Continuous Carbon Mapping (2/2)
+
+* All activity is mapped to carbon offsets (+/-)
+  * Examples:
+  * Solar energy (+)
+  * Chemical fertilizer (-)
+  * Composted Manure (+)
+  * Raw Manure (-)
+
+* Token rewards based on estimates
+
+---
+
+# Economics
+
+---
+## Tokenization
+
 ```
 Plan -> Execute -> Certify ->  Align -> Tokenize
          |            |          |         |
@@ -64,21 +97,46 @@ Plan -> Execute -> Certify ->  Align -> Tokenize
 ```
 ---
 ## The Consensus
-How do you know x ?
+### no proof, no dice!
 
 * Estimate Carbon fixing based on Data
 * Align GAP/Organic Expertise with Carbon Expertise
 * Consensus based on:
   * Practices
-  * Land Records
-  * Tamper-proof data
-  * 
+  * Land Receipts, Warehouse receipts
+  * Digitally locked, tamper-proof records
+
+---
+
+## Economic Ecosystem
+
+* Farmers
+* Traders
+* Consumers
+* Input Suppliers
+* Service Providers
+* Researchers
+
+---
+
+## Token Types
+
+* Crop NFTs
+* Decarbon NFTs
+* Carbon Mint Currency Tokens
+
+---
+
+## Crop NFTs
+
+* NFTs for Land receipts and Warehouse receipts
+* Buyers can by a crop in advance
+* Build loyalty
 
 ---
 ## Tokenomics
 
----
-## NFTs
+* Todo
 
 ---
 ## Challenges
